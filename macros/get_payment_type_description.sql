@@ -10,7 +10,7 @@
         when 3 then 'No charge'
         when 4 then 'Dispute'
         when 5 then 'Unknown'
-        when 6 then 'Voided tripsss'
+        when 6 then 'Voided tripssssssss'
     end
 
 {%- endmacro %}
